@@ -1,0 +1,9 @@
+{
+		"name": "junk_data_server"
+	,	"version": "0.0.0"
+	, "description": "junk data server generates random data in given template format"
+	, "dependencies": {
+		
+	}
+
+}
